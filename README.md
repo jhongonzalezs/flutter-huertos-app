@@ -67,7 +67,7 @@ Cada sección incluye formularios, listas, botones de registro y otros widgets d
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/api-huertos.git
-   cd api-huertos
+   git clone https://github.com/jhongonzalezs/flutter-huertos-app.git
+   cd flutter-huertos-app
 
 
